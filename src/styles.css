@@ -7,6 +7,7 @@
 @theme{
   --color-mygreen-600: #40DE63;
   --color-mywhite-500: #FFFFFF;
+  --color-white-segund-600: #F5F5F5;
   --color-mygray-500: #9F9F9F;
   --color-tetest-400: #17443D;
   --font-mypoppins: "Poppins", sans-serif;
@@ -14,7 +15,7 @@
 
 
 
-html {
-  width: 100vw;
-  height: 100vh;
+body {
+  width: 100auto;
+  height: 100auto;
 }
