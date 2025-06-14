@@ -1,3 +1,5 @@
+import { Link } from "react-router"
+
 export const Input = () => {
   return (
     <>
@@ -15,7 +17,7 @@ export const Input = () => {
       <button className="bg-mygreen-600 text-mywhite-500 p-2 rounded-[16px] cursor-pointer m-4 w-69 ml-16 font-semibold">Entrar</button>
       <div className="">
         <span className="m-4 text-mygreen-600 font-semibold cursor-pointer">Recuperar senha</span>
-        <span className="text-mygreen-600 border-t-mywhite-500 font-semibold cursor-pointer">Criar Conta</span>
+              <span className="text-mygreen-600 border-t-mywhite-500 font-semibold cursor-pointer"><Link to='/cadastro'>Criar Conta</Link></span>
       </div>
     </>
   )
