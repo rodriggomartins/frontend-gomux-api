@@ -3,7 +3,7 @@ import { FormularioComponent } from "../components/formulario/FormularioComponen
 
 export const CadastroCliente = () => {
   return (
-    <div className="bg-mywhite-500 w-auto h-auto p-5 flex justify-center items-center">
+    <div className="bg-mywhite-500 mt-0">
       <FormularioComponent />
     </div>
   )
