@@ -2,7 +2,7 @@ import { Link } from "react-router"
 
 export const Input =() => {
   return(
-    <div className="flex flex-col items-center h-100 w-auto font-mypoppins">
+    <div className="flex flex-col items-center h-100 w-auto font-mypoppins mt-20">
 
       <div className="font-mypoppins flex flex-col items-center p-4">
 

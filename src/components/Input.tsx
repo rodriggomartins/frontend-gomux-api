@@ -6,13 +6,13 @@ export const Input = () => {
       <label className="text-mygreen-600 font-semibold">
         Nome
         <input type="text"
-          placeholder="nome" className="bg-mygreen-600 text-center p-2 text-mywhite-500 rounded-sm m-4"
+          placeholder="nome" className="bg-mygreen-600 text-center p-2 text-mywhite-500 rounded-sm m-4 outline-none"
         />
       </label>
 
       <label className="text-mygreen-600 font-semibold">
         Senha
-        <input type="password" placeholder="*****" className="bg-mygreen-600 text-center p-2 text-mywhite-500 rounded-sm m-4" />
+        <input type="password" placeholder="*****" className="bg-mygreen-600 text-center p-2 text-mywhite-500 rounded-sm m-4 outline-none" />
       </label>
       <button className="bg-mygreen-600 text-mywhite-500 p-2 rounded-[16px] cursor-pointer m-4 w-69 ml-16 font-semibold">Entrar</button>
       <div className="">
