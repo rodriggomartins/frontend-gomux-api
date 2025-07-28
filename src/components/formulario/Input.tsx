@@ -18,7 +18,7 @@ export const Input =() => {
         <label className="mt-3">Repetir senha</label>
         <input type="password" placeholder="confirmar senha" className="border border-myborder-600 rounded-sm p-2 mt-3 ml-2 outline-none w-90" />
         <div className="flex w-auto h-auto items-center justify-center mt-3">
-          <button className="bg-mygreen-600 text-center m-3 p-2 text-mywhite-500 rounded-sm cursor-pointer border border-mywhite-500 w-30">Cadastrar</button>
+          <button className="bg-orange-500 text-center m-3 p-2 text-mywhite-500 rounded-sm cursor-pointer border border-mywhite-500 w-30">Cadastrar</button>
           <button className="bg-red-600 text-center m-3 p-2 text-mywhite-500 rounded-sm cursor-pointer border border-mywhite-500 w-30">
            <Link to="/login">Cancelar</Link>
           </button>

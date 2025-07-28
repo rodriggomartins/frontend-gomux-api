@@ -9,7 +9,7 @@ export const Galeria = () => {
           <span className="text-myblack-600 font-medium">SmartWatch</span>
           <p className="text-myblack-600 font-medium cursor-pointer">Detalhes</p>
           <div>
-          <button className="bg-mygreen-600 text-center m-3 p-2 text-mywhite-500 rounded-sm cursor-pointer border border-mywhite-500 w-30 hover:bg-sky-700">
+          <button className="bg-orange-500 text-center m-3 p-2 text-mywhite-500 rounded-sm cursor-pointer border border-mywhite-500 w-30 hover:bg-sky-700">
               Comprar
             </button>
           </div>
@@ -22,7 +22,7 @@ export const Galeria = () => {
           <span className="text-myblack-600 font-medium">SmartWatch</span>
           <p className="text-myblack-600 font-medium cursor-pointer">Detalhes</p>
           <div>
-          <button className="bg-mygreen-600 text-center m-3 p-2 text-mywhite-500 rounded-sm cursor-pointer border border-mywhite-500 w-30 hover:bg-sky-700">
+          <button className="bg-orange-500 text-center m-3 p-2 text-mywhite-500 rounded-sm cursor-pointer border border-mywhite-500 w-30 hover:bg-sky-700">
               Comprar
             </button>
           </div>
@@ -36,7 +36,7 @@ export const Galeria = () => {
           <span className="text-myblack-600 font-medium">SmartWatch</span>
           <p className="text-myblack-600 font-medium cursor-pointer">Detalhes</p>
           <div>
-          <button className="bg-mygreen-600 text-center m-3 p-2 text-mywhite-500 rounded-sm cursor-pointer border border-mywhite-500 w-30 hover:bg-sky-700">
+          <button className="bg-orange-500 text-center m-3 p-2 text-mywhite-500 rounded-sm cursor-pointer border border-mywhite-500 w-30 hover:bg-sky-700">
               Comprar
             </button>
           </div>
@@ -51,7 +51,7 @@ export const Galeria = () => {
           <span className="text-myblack-600 font-medium">SmartWatch</span>
           <p className="text-myblack-600 font-medium cursor-pointer">Detalhes</p>
           <div>
-          <button className="bg-mygreen-600 text-center m-3 p-2 text-mywhite-500 rounded-sm cursor-pointer border border-mywhite-500 w-30 hover:bg-sky-700">
+          <button className="bg-orange-500 text-center m-3 p-2 text-mywhite-500 rounded-sm cursor-pointer border border-mywhite-500 w-30 hover:bg-sky-700">
               Comprar
             </button>
           </div>
@@ -67,7 +67,7 @@ export const Galeria = () => {
           <span className="text-myblack-600 font-medium">SmartWatch</span>
           <p className="text-myblack-600 font-medium cursor-pointer">Detalhes</p>
           <div>
-          <button className="bg-mygreen-600 text-center m-3 p-2 text-mywhite-500 rounded-sm cursor-pointer border border-mywhite-500 w-30 hover:bg-sky-700">
+          <button className="bg-orange-500 text-center m-3 p-2 text-mywhite-500 rounded-sm cursor-pointer border border-mywhite-500 w-30 hover:bg-sky-700">
               Comprar
             </button>
           </div>
@@ -84,7 +84,7 @@ export const Galeria = () => {
           <span className="text-myblack-600 font-medium">SmartWatch</span>
           <p className="text-myblack-600 font-medium cursor-pointer">Detalhes</p>
           <div>
-          <button className="bg-mygreen-600 text-center m-3 p-2 text-mywhite-500 rounded-sm cursor-pointer border border-mywhite-500 w-30 hover:bg-sky-700">
+          <button className="bg-orange-500 text-center m-3 p-2 text-mywhite-500 rounded-sm cursor-pointer border border-mywhite-500 w-30 hover:bg-sky-700">
               Comprar
             </button>
           </div>
@@ -100,7 +100,7 @@ export const Galeria = () => {
           <span className="text-myblack-600 font-medium">SmartWatch</span>
           <p className="text-myblack-600 font-medium cursor-pointer">Detalhes</p>
           <div>
-          <button className="bg-mygreen-600 text-center m-3 p-2 text-mywhite-500 rounded-sm cursor-pointer border border-mywhite-500 w-30 hover:bg-sky-700">
+          <button className="bg-orange-500 text-center m-3 p-2 text-mywhite-500 rounded-sm cursor-pointer border border-mywhite-500 w-30 hover:bg-sky-700">
               Comprar
             </button>
           </div>

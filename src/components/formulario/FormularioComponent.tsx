@@ -4,7 +4,7 @@ export const FormularioComponent = () => {
   return (
     <div className="bg-white-segund-600 w-auto h-screen">
       <div>
-        <h3 className="bg-myblue-600 font-medium font-mypoppins text-mywhite-500 text-center p-5">Registar-se</h3>
+        <h3 className="bg-orange-500 font-medium font-mypoppins text-mywhite-500 text-center p-5">Registar-se</h3>
       </div>
       <form className="mt-3 p-4">
         <Input />
