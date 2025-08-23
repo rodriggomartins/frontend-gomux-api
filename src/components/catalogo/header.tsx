@@ -1,20 +1,17 @@
-import { Link } from "react-router"
 
 export const Header = () => {
   return(
-    <div className="bg-orange-500 text-mywhite-500 font-medium font-mypoppins text-sm p-3">
-      <header className="p-3 flex place-content-between">
-        <img src ="#" alt="logo" />
-        <input type="text" placeholder="buscar produtos" className="outline-none p-1 border border-mywhite-500 rounded-sm text-center 
-          font-medium" />
-        <ul className="flex cursor-pointer space-x-4 ">
+    <header className="flex content-between bg-orange-500 p-2 text-mywhite-500 font-bold cursor-pointer">
+        <img src="../../../public/logoheader.png" alt="Logo da loja" className="h-20 w-20 rounded-sm"/>
+      <nav>
+        <ul>
           <li>Home</li>
+          <li>Compras</li>
           <li>Carrinho</li>
-          <li>Favoritos</li>
-          <li><Link to="/perfil_users">Perfil</Link></li>
-          <li><Link to='/login'>Sair</Link></li>
+          <li>Sair</li>
         </ul>
-      </header>
-    </div>
+      </nav>
+    </header>
   )
+
 }
