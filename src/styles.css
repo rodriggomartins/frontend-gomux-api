@@ -4,16 +4,20 @@
 
 
 
-@theme{
+@theme {
   --color-mygreen-600: #40DE63;
   --color-mywhite-500: #FFFFFF;
   --color-white-segund-600: #F5F5F5;
   --color-mygray-500: #9F9F9F;
   --color-tetest-400: #17443D;
   --color-myborder-600: #2F4E8C;
-  --color-myblue-600: #1B2C50;
+  --color-myblue-600: #302266;
   --color-newwhite-600: #FAEFFA;
+  --color-white-r-600: #F3FBF3;
   --color-myblack-600: #090308;
+  --color-black-segund-600: #081418;
+  --color-blue-segund-400: #588DC7;
+  --color-orange-500: #ff4500;
   --font-mypoppins: "Poppins", sans-serif;
 }
 
@@ -23,3 +27,9 @@ body {
   width: 100auto;
   height: 100auto;
 }
+
+/*
+img {
+  width: 200px;
+  height: 200px;
+}*/
