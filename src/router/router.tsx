@@ -3,6 +3,7 @@ import { Login } from '../pages/Login';
 import { CadastroCliente } from "../pages/CadastroCliente";
 import { Catalogo } from "../pages/Catalogo";
 import { Perfil } from "../pages/perfil";
+import { Carrinho } from "../pages/carrinho";
 
 export const Router = () => {
     return (
@@ -13,6 +14,7 @@ export const Router = () => {
                 <Route path="/cadastro" element={<CadastroCliente />} />
                 <Route path="/catalogo" element={<Catalogo />} />
                 <Route path="/perfil_user" element={<Perfil />} />
+                <Route path="/carrinho" element={<Carrinho />} />
            </Routes>
        </BrowserRouter>
     )
